@@ -44,3 +44,19 @@ I wanted to analyze the distributions of each of the Lipinski Descriptors to ass
 <img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_MW-1.png" width = "300">
 <img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHAcceptors-1.png" width = "300">
 <img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHDonors-1.png" width = "300">
+
+
+# Model Building
+After fingerprint descriptors were calculated for the compounds, I split the data into training and testing sets with test size of 20%. I used Mean Absolute Error (MAE) to evaluate the models because they are easy to interpret.
+
+I tried three different regression models: 
+* Random Forest Regression
+* Lasso Regression
+* Decision Tree Regression
+
+(Note: Mulitple Linear Regression was not able to be used with this dataset due to the high volume of features being used in the model). 
+
+# Model Performance
+* **Random Forest:** MAE = 0.5191
+* **Decision Tree Regressor:** MAE = 0.6417
+* **Lasso Regression:** MAE = 0.6603
