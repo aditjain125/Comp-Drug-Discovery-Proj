@@ -7,7 +7,5 @@
 
 # Code and Resources Used
 **Python Version:** 3.7
-
 **Packages:** pandas, numpy, sklearn, seaborn, chembl web resource client, rdkit, padel. 
-
 **Project Guidance and Code Inspiration**: [Data Professor YouTube Channel](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
