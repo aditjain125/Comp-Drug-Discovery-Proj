@@ -41,7 +41,6 @@ I wanted to analyze the distributions of each of the Lipinski Descriptors to ass
 
 
 <img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_LogP-1.png" width = "250">
-![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_LogP-1.png)
-![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_MW-1.png)
-![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHAcceptors-1.png)
-![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHDonors-1.png)
+<img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_MW-1.png" width = "300">
+<img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHAcceptors-1.png" width = "300">
+<img src = "https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHDonors-1.png" width = "300">
