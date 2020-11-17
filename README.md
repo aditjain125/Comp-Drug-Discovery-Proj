@@ -37,4 +37,4 @@ With such a large and raw database provided by ChEMBL, data cleaning was necessa
 * Took -log of IC50 values and created and stored resulting pIC50 values. 
 
 # EDA
-![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/Images/plot_LogP.pdf "LogP Plot")
+![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_LogP-1.png)
