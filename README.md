@@ -57,6 +57,7 @@ I tried three different regression models:
 (Note: Mulitple Linear Regression was not able to be used with this dataset due to the high volume of features being used in the model). 
 
 # Model Performance
+The Random Forest model outperformed the other models by a slight margin. 
 * **Random Forest:** MAE = 0.5191
 * **Decision Tree Regressor:** MAE = 0.6417
 * **Lasso Regression:** MAE = 0.6603
