@@ -37,4 +37,8 @@ With such a large and raw database provided by ChEMBL, data cleaning was necessa
 * Took -log of IC50 values and created and stored resulting pIC50 values. 
 
 # EDA
+I wanted to analyze the distributions of each of the Lipinski Descriptors to assess if they are statistically significant. The plots, along with formal statistical calculations in the code, showed that all four features were indeed statistically significant. 
 ![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_LogP-1.png)
+![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_MW-1.png)
+![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHAcceptors-1.png)
+![alt text](https://github.com/aditjain125/Comp-Drug-Discovery-Proj/blob/main/PNG%20Images/plot_NumHDonors-1.png)
